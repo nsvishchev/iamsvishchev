@@ -13,4 +13,4 @@
 
 ## Скриншоты
 
-Скриншоты хранятся в папке [img](/Users/nsvishchev/iamsvishchev/img).
+Скриншоты хранятся в папке [img](/img).
