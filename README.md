@@ -10,3 +10,7 @@
    ```
 3. Открыть в браузере:
    http://localhost:3000
+
+## Скриншоты
+
+Скриншоты хранятся в папке [img](/Users/nsvishchev/iamsvishchev/img).
